@@ -1,0 +1,36 @@
+html{
+    background-image:url("https://45.media.tumblr.com/507e7a746aea9d7f7efbb286d5385d24/tumblr_nm788lxXE91u9b9ceo1_500.gif");
+    text-align:center;
+    background-size:140%;
+
+}
+h1{
+    color:yellow;
+    background-image:url("https://media.giphy.com/media/ygAaR0n5RsyAM/giphy.gif");
+
+}
+
+img{
+    width: 250px;
+}
+h1{
+    color:yellow;
+    background-color: black;
+    
+}
+
+h2,p{
+    color:#00ff00;
+    background-color: black;
+    background-image:url("https://45.media.tumblr.com/507e7a746aea9d7f7efbb286d5385d24/tumblr_nm788lxXE91u9b9ceo1_500.gif");
+    background-size:1000%;
+}
+.BestMovie {
+    color :red;
+    }
+.BestAnime{
+    color :orange;
+    }
+.BestArtist{
+    color :yellow;
+    }
